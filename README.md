@@ -1,6 +1,26 @@
-# Godot-Project-Template
+# Project-03-Juicy-Brick-Breaker
+Project for MSCH-C220, 14 October 2020
 
-This is an empty Godot project that can be used as a starting place for Godot repositories. After creating and cloning the repository, download this as a zip file. Unzip it and copy the files into the repository folder. You should then be able to import the project.godot file (in the repository folder) as a project in Godot. Make sure you change the project name in the Project Settings.
+A Juicy Brick Breaker game.
 
 ## Implementation
-Created in Godot 3.2.2
+Built using Godot 3.2.2
+
+Including Features:
+Changing the color of the paddle, ball, and blocks.
+Wobble the ball after it hits something.
+Animate the color of the ball after it hits something.
+Add sound effects.
+Add music.
+Visualize the lives.
+Break the blocks when they are hit.
+Adjust difficulties for different levels, making blocks harder to break.
+
+## References
+The font, Bebas Neue Regular (Ryoichi Tsunekawa) was downloaded from https://fontlibrary.org/en/font/bebasneueregular
+
+## Future Development
+Add more features like screen shaking, a comet trail to the ball and so on.
+
+## Created by
+Nicole Ni
